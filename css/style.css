@@ -1043,7 +1043,7 @@ h3 { font-size: 31px; font-weight: 600; }
   .avatars {
   display: flex;
   margin: 15px 0;
-  gap: 10px;
+  gap: 11x;
   }
 
   .avatars img {
